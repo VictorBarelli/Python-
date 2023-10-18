@@ -1,6 +1,6 @@
 import random
 def generate_username(name_of_user):
-    # Constraints
+    
     minimum_capital_letter = 1
     minimum_specia_char = 2
     minimum_digits = 1
